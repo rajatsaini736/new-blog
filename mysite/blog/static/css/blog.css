@@ -1,0 +1,54 @@
+
+.centerstage{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bigbrand{
+  font-size: 1.5em;
+}
+.techfont{
+  font-family: 'Spirax',sans-serif;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+body {
+  height: 100%;
+  overflow: auto;
+}
+
+.postdate{
+  text-align: center;
+}
+.posttitle{
+  font-family: 'Spirax',sans-serif;
+  font-size: 3em;
+  text-align: center;
+}
+.postcontent{
+  font-family: 'Montserrat';
+  font-size: 1.5em;
+}
+.btn-comment{
+  position: absolute;
+  right: 0px; 
+} 
+li{
+display: inline;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li{
+  float: left;
+}
+li a{
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
